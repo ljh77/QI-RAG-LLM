@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.3.3
+tqdm==4.67.3
+torch==2.3.1+cu121
+sentence-transformers==5.3.0
+faiss-cpu==1.7.2
+scikit-learn==1.7.2
+requests==2.32.5
