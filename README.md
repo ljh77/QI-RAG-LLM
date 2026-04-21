@@ -34,3 +34,7 @@ python demo/demo.py
 ## Results
 QI-RAG demonstrates improved robustness compared to standard RAG
 under noisy and adversarial query settings.
+
+## Contact 
+Jun-Hyeong Lee
+yjhboky@gmail.com
