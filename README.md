@@ -1,4 +1,4 @@
-# QI-RAG: Query-Indexed Retrieval-Augmented Generation
+# QI-RAG: Query-Indexed Retrieval-Augmented Generation(2026.4)
 
 ## Overview
 QI-RAG is a retrieval framework that indexes queries instead of documents.
