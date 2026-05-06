@@ -28,9 +28,6 @@ This repository provides a simplified implementation for research purposes.
 ## Installation
 pip install -r requirements.txt
 
-## Usage
-python demo/demo.py
-
 ## Results
 QI-RAG demonstrates improved robustness compared to standard RAG
 under noisy and adversarial query settings.
